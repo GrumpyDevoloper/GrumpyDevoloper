@@ -1,5 +1,5 @@
 - 👋 Hi, I’m GrumpyDevoloper
-- 👀 I’m interested in Front-End, Photography, Food and games
+- 👀 I’m interested in UI / UX Designing,Photography, Graphics, and visuals 
 - 🌱 I’m currently learning Front-End Developing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by email: grumpy.devoloper@outlook.com
